@@ -42,8 +42,8 @@ The goal of Task 3 was to analyze student event feedback collected through surve
 ---
 
 ## 📂 Dataset & Notebook  
-- 📑[View Analysis Notebook on Google Colab]()
--📊 [Download Survey Data (CSV)](./data/student_feedback.csv)  
+- 📑[View Analysis Notebook on Google Colab](https://github.com/rifaaa31/FUTURE_DS_03/blob/main/College_Event_Feedback_Analysis%20(1).ipynb)
+-📊 [Download Survey Data (CSV)]()  
 ---    
 
 ## 🔹 Tools & Libraries  
