@@ -41,6 +41,11 @@ The goal of Task 3 was to analyze student event feedback collected through surve
 
 ---
 
+## 📂 Dataset & Notebook  
+- 📑
+
+---    
+
 ## 🔹 Tools & Libraries  
 - **Environment:** Google Colab  
 - **Libraries:** `pandas`, `numpy`, `seaborn`, `matplotlib`, `TextBlob`, `vaderSentiment`, `wordcloud`  
@@ -52,6 +57,3 @@ The goal of Task 3 was to analyze student event feedback collected through surve
 - **Overall Recommendation Rate:** ~67%  
 - **Sentiment Split:** 82.7% Positive, 10.9% Negative, 6.4% Neutral  
 - **Suggestions:** Improve sound checks, enforce punctuality, plan larger venues, and provide clearer directions.  
-
-
-## 📂 Repository Structure  
